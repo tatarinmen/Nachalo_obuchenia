@@ -1,1 +1,3 @@
-print('Начало связки с giHub')
+print('Начало связки giHub')
+print(3)
+
